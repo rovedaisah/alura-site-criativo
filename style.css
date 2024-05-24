@@ -6,16 +6,16 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: #424E61;
-    color: white;
+    background-color: #095feb;
+    color: rgb(247, 240, 240);
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 15px 0;
 }
 
 .cabecalho-imagem{
-    width: 10%;
+    width: 15%;
 }
 
 .cabecalho-lista-item{
@@ -34,11 +34,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 14px 0;
 }
 
 .escola-div-conteudo{
-    width: 35%;
+    width: 15%;
 }
 
 
